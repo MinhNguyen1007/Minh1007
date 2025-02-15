@@ -1,0 +1,11 @@
+# Bỏ qua file .log
+*.log
+
+# Bỏ qua thư mục temp/
+temp/
+
+# Bỏ qua file tạm của hệ thống
+*.tmp
+.DS_Store
+Thumbs.db
+
